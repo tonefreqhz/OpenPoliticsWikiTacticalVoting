@@ -19,3 +19,4 @@ defaults:
     path: ""
   values:
     layout: "root"
+theme: jekyll-theme-leap-day
